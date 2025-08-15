@@ -1,4 +1,5 @@
 📄 E-Commerce Store – Product Listing & Cart System
+
 Web Development Internship – ApexPlanet
 
 This project demonstrates a responsive, interactive e-commerce store using only a single HTML file with embedded CSS and JavaScript. Users can view products, filter by category/price, and add items to a cart with real-time total calculation.
